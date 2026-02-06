@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\news_service.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\news_service.dart"
+        }
+    ]
+}
